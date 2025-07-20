@@ -4,12 +4,6 @@
 [![Kaggle Badge](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/amisha0528/mall-customers-dataset)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M-Z-5474/mall-customer-segmentation/blob/main/data-analysis/mall_customers_segmentation.ipynb)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/M-Z-5474/mall-customer-segmentation?style=social)](https://github.com/M-Z-5474/mall-customer-segmentation/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/M-Z-5474/mall-customer-segmentation?style=social)](https://github.com/M-Z-5474/mall-customer-segmentation/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/M-Z-5474/mall-customer-segmentation)](https://github.com/M-Z-5474/mall-customer-segmentation/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/M-Z-5474/mall-customer-segmentation)](https://github.com/M-Z-5474/mall-customer-segmentation/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/M-Z-5474/mall-customer-segmentation)](https://github.com/M-Z-5474/mall-customer-segmentation)
 
 
 This project performs **customer segmentation** on mall customer data using **unsupervised machine learning** (K-Means Clustering). The goal is to identify distinct customer groups based on demographics and spending behavior to help with **targeted marketing** and **personalized business strategies**.
