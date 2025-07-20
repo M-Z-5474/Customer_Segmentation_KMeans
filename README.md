@@ -11,11 +11,22 @@ This project performs **customer segmentation** on mall customer data using **un
 
 ## 📁 Project Structure
 
-```
+├── dataset/
+│   └── Mall_Customers.csv              # Raw dataset used for clustering
+│
+├── data-analysis/
+│   └── customer_segmentation.ipynb     # Full analysis: EDA, clustering, visualizations
+│   └── README.md                       # Notebook-specific documentation
+│
+├── images/
+│   ├── elbow_plot.png                  # Elbow Method for optimal clusters
+│   ├── pca_clusters.png                # Final customer segments using PCA
+│   ├── age_vs_spending.png            # Age vs Spending Score plot
+│   └── visualize_t-SNE.png            # Customer segments visualized with t-SNE
+│
+├── requirements.txt                   # Python dependencies (optional if using Colab)
+├── README.md                          # You are here! Main project overview
 
-📁 dataset/           → Raw data file (Mall\_Customers.csv)
-📁 data-analysis/     → Jupyter/Colab notebook for EDA & clustering
-README.md             → Main project overview (you are here)
 
 ```
 
