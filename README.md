@@ -42,6 +42,19 @@ The notebook in `data-analysis/` performs the following tasks:
 - 🔹 Silhouette Score Evaluation  
 - 🔹 Cluster-Based Marketing Strategy Suggestions
 
+🖼️ Key Visualizations
+### 📌 Elbow Method for Optimal Clusters
+![Elbow Method](images/elbow_plot.png)
+
+### 📌 Final Customer Segments (PCA)
+![PCA Clustering](images/pca_clusters.png)
+
+### 📌 Age vs Spending Score
+![Age vs Spending](images/age_vs_spending.png)
+
+### 📌 Customer Segments Visualized Using t-SNE
+![Visualized Using t-SNE](images/visualize_t-SNE.png)
+
 ---
 
 ## 📈 Key Techniques Used
