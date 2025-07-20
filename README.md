@@ -2,7 +2,8 @@
 # 🛍️ Mall Customer Segmentation using K-Means Clustering
 
 ![Kaggle Badge](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/data-analysis/mall_customers_segmentation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M-Z-5474/mall-customer-segmentation/blob/main/data-analysis/mall_customers_segmentation.ipynb)
+
 
 This project performs **customer segmentation** on mall customer data using **unsupervised machine learning** (K-Means Clustering). The goal is to identify distinct customer groups based on demographics and spending behavior to help with **targeted marketing** and **personalized business strategies**.
 
