@@ -1,10 +1,4 @@
-Great! Here's your **main root-level `README.md`** file for the entire GitHub repository. It provides a professional overview of your **Mall Customer Segmentation** project and links to both the dataset and analysis folders.
 
----
-
-### 📄 `README.md` (Root of Repository)
-
-```markdown
 # 🛍️ Mall Customer Segmentation using K-Means Clustering
 
 This project performs **customer segmentation** on mall customer data using **unsupervised machine learning** (K-Means Clustering). The goal is to identify distinct customer groups based on demographics and spending behavior to help with **targeted marketing** and **personalized business strategies**.
