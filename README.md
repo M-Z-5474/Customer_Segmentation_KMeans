@@ -1,7 +1,7 @@
 
 # 🛍️ Mall Customer Segmentation using K-Means Clustering
 
-![Kaggle Badge](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)
+[![Kaggle Badge](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/amisha0528/mall-customers-dataset)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M-Z-5474/mall-customer-segmentation/blob/main/data-analysis/mall_customers_segmentation.ipynb)
 
 
