@@ -7,6 +7,8 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Last Commit](https://img.shields.io/github/last-commit/M-Z-5474/mall-customer-segmentation)
 ![Repo Size](https://img.shields.io/github/repo-size/M-Z-5474/mall-customer-segmentation)
+![Last Commit](https://img.shields.io/github/last-commit/M-Z-5474/email-spam-detector)
+![Repo Size](https://img.shields.io/github/repo-size/M-Z-5474/email-spam-detector)
 
 
 
