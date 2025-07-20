@@ -5,10 +5,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M-Z-5474/mall-customer-segmentation/blob/main/data-analysis/mall_customers_segmentation.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/M-Z-5474/mall-customer-segmentation)
-![Repo Size](https://img.shields.io/github/repo-size/M-Z-5474/mall-customer-segmentation)
-![Last Commit](https://img.shields.io/github/last-commit/M-Z-5474/email-spam-detector)
-![Repo Size](https://img.shields.io/github/repo-size/M-Z-5474/email-spam-detector)
+![Last Commit](https://img.shields.io/github/last-commit/M-Z-5474/Customer_Segmentation_KMeans)
+![Repo Size](https://img.shields.io/github/repo-size/M-Z-5474/Customer_Segmentation_KMeans)
+
 
 
 
@@ -104,8 +103,12 @@ Then interpret these clusters to design **personalized marketing strategies**.
 
 ## 📬 Author
 
-**Muhammad Zain Mushtaq**  
-📌 GitHub: [@M-Z-5474](https://github.com/M-Z-5474)
+
+**Muhammad Zain Mushtaq**
+
+📍 AI/ML & Data Scientist Enthusiast | Researcher 
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-zain-m-a75163358)
+💼 [Portfolio](https://github.com/M-Z-5474)
 
 ---
 
