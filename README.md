@@ -16,6 +16,7 @@ Customer_Segmentation_KMeans
 |
 ├── dataset/
 │   └── Mall_Customers.csv              # Raw dataset used for clustering
+|   └── README.md                       # Dataset description
 │
 ├── data-analysis/
 │   └── customer_segmentation.ipynb     # Full analysis: EDA, clustering, visualizations
