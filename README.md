@@ -4,6 +4,12 @@
 [![Kaggle Badge](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/amisha0528/mall-customers-dataset)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M-Z-5474/mall-customer-segmentation/blob/main/data-analysis/mall_customers_segmentation.ipynb)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Built%20with-Jupyter-yellow?logo=jupyter)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/M-Z-5474/mall-customer-segmentation)
+![Repo Size](https://img.shields.io/github/repo-size/M-Z-5474/mall-customer-segmentation)
+
 
 
 This project performs **customer segmentation** on mall customer data using **unsupervised machine learning** (K-Means Clustering). The goal is to identify distinct customer groups based on demographics and spending behavior to help with **targeted marketing** and **personalized business strategies**.
