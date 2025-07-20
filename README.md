@@ -28,7 +28,6 @@ This project performs **customer segmentation** on mall customer data using **un
 ├── README.md                          # You are here! Main project overview
 
 
-```
 
 ---
 
