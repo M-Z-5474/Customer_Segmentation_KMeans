@@ -9,8 +9,11 @@ This project performs **customer segmentation** on mall customer data using **un
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
 
+```bash
+Customer_Segmentation_KMeans
+|
 ├── dataset/
 │   └── Mall_Customers.csv              # Raw dataset used for clustering
 │
@@ -27,7 +30,7 @@ This project performs **customer segmentation** on mall customer data using **un
 ├── requirements.txt                   # Python dependencies (optional if using Colab)
 ├── README.md                          # You are here! Main project overview
 
-
+````
 
 ---
 
