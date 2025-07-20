@@ -71,8 +71,6 @@ Then interpret these clusters to design **personalized marketing strategies**.
 ---
 
 > 💡 Tip: Explore the `data-analysis` folder for the complete interactive notebook and detailed clustering insights.
-```
 
----
 
 
