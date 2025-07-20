@@ -42,7 +42,7 @@ The notebook in `data-analysis/` performs the following tasks:
 - 🔹 Silhouette Score Evaluation  
 - 🔹 Cluster-Based Marketing Strategy Suggestions
 
-🖼️ Key Visualizations
+### 🖼️** Key Visualizations**
 ### 📌 Elbow Method for Optimal Clusters
 ![Elbow Method](images/elbow_plot.png)
 
